@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">E_5_8_Pantalla Tactil</string>
+    <string name="pulsa_aqui">Pulsa aquí</string>
+    <string name="pulsaciones">Pulsaciones</string>
 </resources>
